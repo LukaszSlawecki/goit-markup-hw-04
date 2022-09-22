@@ -337,13 +337,7 @@ img {
 .icon-addres {
   --color1: red;
 }
-.icon-envelope {
-  fill: #000000;
-  background-color: #ececec;
-  width: 16px;
-  height: 12px;
-  margin-left: 345px;
-}
+
 .icon-telephone {
   fill: #000000;
   background-color: #ececec;
