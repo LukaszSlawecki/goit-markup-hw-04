@@ -338,12 +338,6 @@ img {
   --color1: red;
 }
 
-.icon-telephone {
-  fill: #000000;
-  background-color: #ececec;
-  width: 16px;
-  height: 12px;
-}
 .clients-title {
   display: flex;
   justify-content: center;
@@ -353,6 +347,7 @@ img {
   width: 20px;
   height: 16px;
   top: 12px;
+  color: #afb1b8;
 }
 .icon-clients {
   width: 106px;
