@@ -355,8 +355,8 @@ img {
   height: 44px;
   border-radius: 50%;
 }
-.icon-dsinger:hover,
-.icon-dsinger:focus {
+.icons-desinger:hover,
+.icons-desinger:focus {
   background-color: #2196f3;
   fill: white;
 }
