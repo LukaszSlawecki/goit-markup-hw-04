@@ -350,10 +350,17 @@ img {
   color: #afb1b8;
 }
 .icons-desinger {
-  fill: #afb1b8;
-  width: 44px;
-  height: 44px;
+  border: solid 0px;
   border-radius: 50%;
+  height: 44px;
+  width: 44px;
+  radius: 50%;
+  background-color: none;
+  fill: var(--item-gray);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 16px;
 }
 .icons-desinger:hover,
 .icons-desinger:focus {
@@ -363,7 +370,9 @@ img {
 .icon-clients {
   width: 106px;
   height: 60px;
-  color: #afb1b8;
+  fill: #afb1b8;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .header-button {
