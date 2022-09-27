@@ -348,6 +348,7 @@ img {
   height: 16px;
   top: 12px;
   color: #afb1b8;
+  display: flex;
 }
 .icons-desinger {
   border: solid 0px;
@@ -358,7 +359,6 @@ img {
   background-color: none;
   fill: #afb1b8;
   display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
   margin-top: 16px;
