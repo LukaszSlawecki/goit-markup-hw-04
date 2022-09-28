@@ -349,10 +349,11 @@ img {
 }
 
 .clients-title {
+  display: flex;
   justify-content: center;
   align-items: center;
 }
-*/ .icon {
+.icon {
   width: 20px;
   height: 16px;
   top: 12px;
@@ -389,6 +390,27 @@ img {
 }
 .container-clients {
   justify-content: center;
+}
+.footer-socials {
+  margin-top: 12px;
+}
+.socials-headline-footer {
+  font-weight: 700;
+  line-height: 1.14;
+  text-transform: uppercase;
+  color: var(--button-text-color);
+  margin-bottom: 20px;
+}
+.footer-socials-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 0;
+}
+.icons-footer {
+  fill: #afb1b8;
 }
 
 .header-button {
