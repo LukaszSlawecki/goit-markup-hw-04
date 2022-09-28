@@ -346,11 +346,13 @@ img {
   justify-self: center;
   flex-wrap: wrap;
 }
+/*
 .clients-title {
   display: flex;
   justify-content: center;
   align-items: center;
 }
+*/
 .icon {
   width: 20px;
   height: 16px;
