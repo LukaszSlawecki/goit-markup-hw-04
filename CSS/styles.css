@@ -361,7 +361,10 @@ img {
   justify-content: center;
   align-items: center;
 }
-
+.client-box {
+  margin: 50px 15px 94px 215px;
+  justify-content: center;
+}
 .icon {
   width: 20px;
   height: 16px;
