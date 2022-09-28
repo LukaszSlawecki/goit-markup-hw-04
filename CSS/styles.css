@@ -386,6 +386,10 @@ img {
   cursor: pointer;
   justify-content: center;
 }
+.container-clients {
+  display: flex;
+  justify-content: center;
+}
 
 .header-button {
   background-color: rgba(47, 48, 58, 0.4);
