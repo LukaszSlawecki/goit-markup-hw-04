@@ -346,7 +346,6 @@ img {
   list-style-type: none;
   display: flex;
   justify-content: center;
-  text-align: center;
   gap: 30px;
   padding-bottom: 94px;
 }
@@ -362,7 +361,7 @@ img {
   align-items: center;
 }
 .client-box {
-  margin: 50px 15px 94px 215px;
+  margin: 50px 15px 94px;
   justify-content: center;
 }
 .icon {
