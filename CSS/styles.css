@@ -349,11 +349,6 @@ img {
   gap: 30px;
   padding-bottom: 94px;
 }
-.clients-section {
-  display: flex;
-  justify-self: center;
-  flex-wrap: wrap;
-}
 
 .clients-title {
   display: flex;
@@ -389,6 +384,7 @@ img {
 .icon-clients {
   width: 170px;
   height: 92px;
+  gap: 30px;
   border: 1px solid #afb1b8;
   border-radius: 4px;
   fill: #afb1b8;
