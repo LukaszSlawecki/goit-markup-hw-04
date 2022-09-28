@@ -334,8 +334,12 @@ img {
   justify-content: center;
   align-items: center;
 }
+
+.icon-envelope {
+  fill: #afb1b8;
+}
 .icon-addres {
-  --color1: red;
+  fill: #afb1b8;
 }
 
 .clients-title {
