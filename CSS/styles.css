@@ -355,7 +355,6 @@ img {
   height: 16px;
   top: 12px;
   color: #afb1b8;
-  display: flex;
 }
 .icons-desinger {
   border: solid 0px;
@@ -382,12 +381,11 @@ img {
   fill: #afb1b8;
   border: #afb1b8;
   border-radius: 4px;
-  display: flex;
+
   cursor: pointer;
   justify-content: center;
 }
 .container-clients {
-  display: flex;
   justify-content: center;
 }
 
