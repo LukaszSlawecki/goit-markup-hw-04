@@ -341,12 +341,13 @@ img {
 .icon-addres {
   fill: #afb1b8;
 }
+/*
 .clients-section {
   display: flex;
   justify-self: center;
   flex-wrap: wrap;
 }
-/*
+
 .clients-title {
   display: flex;
   justify-content: center;
