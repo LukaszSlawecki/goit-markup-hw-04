@@ -342,6 +342,7 @@ img {
   fill: #afb1b8;
 }
 .clients {
+  margin: 50px 15px 86px 215px;
   box-sizing: border-box;
   list-style-type: none;
   display: flex;
@@ -387,6 +388,8 @@ img {
   fill: white;
 }
 .icon-clients {
+  width: 170px;
+  height: 92px;
   border: 1px solid #afb1b8;
   border-radius: 4px;
   fill: #afb1b8;
