@@ -346,6 +346,7 @@ img {
   list-style-type: none;
   display: flex;
   justify-content: center;
+  text-align: center;
   gap: 30px;
   padding-bottom: 94px;
 }
