@@ -341,7 +341,7 @@ img {
 .icon-addres {
   fill: #afb1b8;
 }
-/*
+
 .clients-section {
   display: flex;
   justify-self: center;
@@ -349,12 +349,10 @@ img {
 }
 
 .clients-title {
-  display: flex;
   justify-content: center;
   align-items: center;
 }
-*/
-.icon {
+*/ .icon {
   width: 20px;
   height: 16px;
   top: 12px;
