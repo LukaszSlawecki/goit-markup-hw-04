@@ -386,7 +386,7 @@ img {
   fill: white;
 }
 .icon-clients {
-  margin: 50px 15px 94 auto;
+  padding: 50px 15px 94 auto;
   border: 1px solid #afb1b8;
   border-radius: 4px;
   fill: #afb1b8;
