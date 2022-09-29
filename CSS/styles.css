@@ -347,8 +347,8 @@ img {
   list-style-type: none;
   display: flex;*/
   justify-content: center;
-  gap: 30px;
-  padding-bottom: 94px;
+  /* gap: 30px;
+  padding-bottom: 94px;*/
 }
 
 .clients-title {
@@ -383,7 +383,7 @@ img {
   fill: white;
 }
 .icon-clients {
-  width: 17px;
+  width: 170px;
   height: 92px;
   gap: 30px;
   border: 1px solid #afb1b8;
@@ -397,9 +397,7 @@ img {
   background-color: #2196f3;
   fill: white;
 }
-.container-clients {
-  justify-content: center;
-}
+
 .footer-container {
   display: flex;
   gap: 70px;
