@@ -343,8 +343,8 @@ img {
 }
 .clients {
   /*box-sizing: border-box;
-  list-style-type: none;*/
-  display: flex;
+  list-style-type: none;
+  display: flex;*/
   justify-content: center;
   /*gap: 30px;
   padding-bottom: 94px;*/
