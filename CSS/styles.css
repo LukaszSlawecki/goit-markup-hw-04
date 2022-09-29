@@ -342,10 +342,9 @@ img {
   fill: #afb1b8;
 }
 .clients {
-  /*
   box-sizing: border-box;
   list-style-type: none;
-  display: flex;*/
+  display: flex;
   justify-content: center;
   /* gap: 30px;
   padding-bottom: 94px;*/
