@@ -392,6 +392,10 @@ img {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1),
     border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.icon-clients:not(:last-child) {
+  padding-right: 30px;
+}
+
 .icon-clients:hover,
 .icon-clients:focus {
   background-color: #2196f3;
