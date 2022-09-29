@@ -346,16 +346,14 @@ img {
   list-style-type: none;
   display: flex;*/
   justify-content: center;
-  /*gap: 30px;
-  padding-bottom: 94px;*/
+  gap: 30px;
+  /*padding-bottom: 94px;*/
 }
 
 .clients-title {
-  display: flex;
+  /*display: flex;*/
   justify-content: center;
   align-items: center;
-  margin-top: 94ps;
-  margin-bottom: 50px;
 }
 
 .icon {
@@ -386,7 +384,7 @@ img {
 .icon-clients {
   width: 170px;
   height: 92px;
-  gap: 30px;
+  /*gap: 30px;*/
   border: 1px solid #afb1b8;
   border-radius: 4px;
   fill: #afb1b8;
