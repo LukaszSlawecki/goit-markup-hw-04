@@ -351,9 +351,11 @@ img {
 }
 
 .clients-title {
-  display: flex;
+  /*display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center;*/
+  margin-top: 94ps;
+  margin-bottom: 488px;
 }
 
 .icon {
@@ -382,7 +384,7 @@ img {
   fill: white;
 }
 .icon-clients {
-  width: 17px;
+  width: 170px;
   height: 92px;
   gap: 30px;
   border: 1px solid #afb1b8;
