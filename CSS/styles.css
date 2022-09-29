@@ -343,15 +343,16 @@ img {
 }
 .clients {
   /*box-sizing: border-box;
-  list-style-type: none;
-  display: flex;*/
+  list-style-type: none;*/
+  display: flex;
   justify-content: center;
   gap: 30px;
+  margin-top: 94px;
   /*padding-bottom: 94px;*/
 }
 
 .clients-title {
-  /*display: flex;*/
+  display: flex;
   justify-content: center;
   align-items: center;
 }
