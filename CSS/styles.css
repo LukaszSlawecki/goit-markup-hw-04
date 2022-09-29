@@ -343,6 +343,13 @@ img {
 }
 .clients {
   display: flex;
+  list-style: none;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-top: 20px;
+  /*display: flex;
   direction: row;
   gap: 30px;
   /*box-sizing: border-box;
@@ -363,6 +370,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 50px;
 }
 
 .icon {
