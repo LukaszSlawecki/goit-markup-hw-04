@@ -346,8 +346,8 @@ img {
   list-style-type: none;
   display: flex;
   justify-content: center;
-  /* gap: 30px;
-  padding-bottom: 94px;*/
+  gap: 30px;
+  padding-bottom: 94px;
 }
 
 .clients-title {
@@ -396,7 +396,9 @@ img {
   background-color: #2196f3;
   fill: white;
 }
-
+.container-clients {
+  justify-content: center;
+}
 .footer-container {
   display: flex;
   gap: 70px;
