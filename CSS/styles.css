@@ -344,8 +344,7 @@ img {
 .clients {
   display: flex;
   list-style: none;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: center;
   margin-right: 20px;
   margin-left: 20px;
   padding-top: 20px;
