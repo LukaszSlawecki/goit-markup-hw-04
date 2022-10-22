@@ -119,6 +119,7 @@ img {
   padding-bottom: 10px;
 }
 .lorem-paragraph {
+  margin-bottom: 94px;
   color: var(--darkgrey);
   font-size: 14px;
   line-height: 1.71;
