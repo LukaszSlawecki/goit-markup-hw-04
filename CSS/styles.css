@@ -100,10 +100,17 @@ img {
 }
 .lorem {
   padding-bottom: 94px;
+  padding: 0px;
+  gap: 30px;
 }
-.lorem:not(:last-child) {
+.lorem-element {
+  width: 25%;
+}
+
+/* .lorem:not(:last-child) {
   padding-right: 30px;
 }
+*/
 .lorem-heading {
   font-weight: 700;
   font-size: 14px;
