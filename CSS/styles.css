@@ -134,6 +134,9 @@ img {
 .photo-csz:not(:last-child) {
   padding-right: 30px;
 }
+.Photo-czs {
+  width: 33.33%;
+}
 .box {
   display: block;
   position: absolute;
@@ -367,6 +370,7 @@ img {
   padding-bottom: 94px;*/
 }
 .client-card {
+  margin-right: 30px;
   display: flex;
   justify-content: center;
   gap: 30px;
