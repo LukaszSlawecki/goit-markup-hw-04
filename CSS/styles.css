@@ -371,6 +371,7 @@ img {
 }
 .client-card {
   margin-right: 30px;
+  margin-bottom: 94px;
   display: flex;
   justify-content: center;
   gap: 30px;
