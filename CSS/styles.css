@@ -437,6 +437,7 @@ img {
 }
 .footer-container {
   display: flex;
+  margin-left: 215px;
   gap: 70px;
   align-items: baseline;
 }
