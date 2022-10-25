@@ -140,6 +140,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
+  padding: 0;
 }
 .Photo-czs {
   flex-basis: calc((100% - 30px) / 3);
