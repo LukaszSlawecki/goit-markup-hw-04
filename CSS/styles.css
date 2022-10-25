@@ -132,7 +132,6 @@ img {
   font-size: 36px;
   line-height: 1.16;
   text-align: center;
-  margin-top: 94px;
   margin-bottom: 50px;
 }
 
@@ -393,6 +392,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 94px;
   margin-bottom: 50px;
 }
 
