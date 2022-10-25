@@ -101,9 +101,12 @@ img {
 .lorem {
   padding-bottom: 94px;
   padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
   gap: 30px;
 }
 .lorem-element {
+  flex-basis: calc((100% - 90px) / 4);
   width: 25%;
 }
 
@@ -144,6 +147,7 @@ img {
 }
 .Photo-czs {
   flex-basis: calc((100% - 30px) / 3);
+  width: 33.33%;
 }
 .box {
   display: block;
