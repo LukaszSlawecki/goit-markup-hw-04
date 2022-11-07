@@ -47,8 +47,6 @@ img {
 .container {
   width: 1200px;
   margin: auto;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 .container-footer {
   width: 100%;
@@ -321,7 +319,14 @@ img {
   gap: 4px;
 }
 .footer {
+  display: flex;
   background-color: var(--darkfooter);
+}
+.footer .container {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 215px;
+  margin-right: 82x;
 }
 .footer-address,
 .footer-address p {
